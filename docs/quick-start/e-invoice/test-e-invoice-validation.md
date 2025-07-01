@@ -1,8 +1,8 @@
 ---
 sidebar_position: 2
-title: TIN Lookup Via Maintain Customer/Supplier
-description: How to lookup TIN via maintain customer in SQL Accounting
-slug: /quick-start/e-invoice/how-to-tin-lookup-via-maintain-customer
+title: Test E Invoice Validation
+description: How to test e invoice validation in SQL Accounting
+slug: /quick-start/e-invoice/how-to-test-e-invoice-validation
 tags: ["E Invoice"]
 hide_title: true 
 hide_table_of_contents: true
@@ -13,5 +13,5 @@ import '@src/css/sidebar.css';
 import { YtLayout } from '@src/components/yt-layout';
 
 <YtLayout 
-    videoId="EMpDTDBVB2o"
+    videoId="AKLkzWVApLY"
 />  

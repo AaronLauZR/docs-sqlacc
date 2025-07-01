@@ -1,8 +1,8 @@
 ---
 sidebar_position: 2
-title: TIN Lookup Via Maintain Customer/Supplier
-description: How to lookup TIN via maintain customer in SQL Accounting
-slug: /quick-start/e-invoice/how-to-tin-lookup-via-maintain-customer
+title: Request Customer Info
+description: How to Request Customer/Supplier Info in SQL Accounting
+slug: /quick-start/e-invoice/how-to-request-customer-info
 tags: ["E Invoice"]
 hide_title: true 
 hide_table_of_contents: true
@@ -13,5 +13,5 @@ import '@src/css/sidebar.css';
 import { YtLayout } from '@src/components/yt-layout';
 
 <YtLayout 
-    videoId="EMpDTDBVB2o"
+    videoId="X3BoiXOlKkc"
 />  

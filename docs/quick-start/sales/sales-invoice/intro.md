@@ -17,7 +17,7 @@ dataEntryList = {[
   "videoId": "J4VjX1y80YA"  
 },
 {
-  "text": "How To Activate MyInvois Request", 
+  "text": "MyInvois Request - Buyer/Customer self-service to key in TIN information", 
   "link": "../e-invoice/how-to-activate-myinvois-request",
   "videoId": "E9_fj_d4274"
 },
@@ -51,6 +51,10 @@ dataEntryList = {[
   "link": "../e-invoice/how-to-reject-validated-e-invoice",
   "videoId": "FCxszVvHAq0"    
 },  
-
+{
+  "text": "How to Test E Invoice Validation", 
+  "link": "../e-invoice/how-to-test-e-invoice-validation",
+  "videoId": "AKLkzWVApLY"      
+},   
 ]}
 />
