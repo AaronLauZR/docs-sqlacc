@@ -17,7 +17,7 @@ tags: ["SQL Account API", "Secret Key"]
 
 1. In SQL Account, go to `Tools` > `Maintain User...` > `Detail`
 
-2. Create a new user by clicking `New`, name it "API user"
+2. Create a new user by clicking `New`, name it "APIUser"
 
 3. Next, highlight on the new user, click on `More` > `API Secret Key`
 
