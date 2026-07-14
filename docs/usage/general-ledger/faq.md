@@ -372,21 +372,26 @@ Press **F6** to preview the report.
 
 ## Financial Analysis and Reporting
 
-### How to Calculate P&L Percentages
+### How to Calculate Profit  & Loss Statement Percentages
 
-![38](../../../static/img/usage/general-ledger/faq/cal-p&l-percent/1.png)
+![p&l-percentage-calculation](../../../static/img/usage/general-ledger/faq/cal-p&l-percent/p&l-percentage-calculation.png)
 
 :::note
-**Formula:** (Account Amount / Total Sales) * 100
+**Formula:**
+
+Sales, Purchase, Expenses, Net Profit (%) = **(Account Amount / Total Sales) * 100**
+
+Gross Profit (%) = **(Account Amount / Net Sales) * 100**
+
 :::
 
 #### Examples
 
-- **Sales % (A):** (184,119.49 / 296,502.11) * 100 = **62.1%**
-- **Purchase % (C):** (7,406.8 / 296,502.11) * 100 = **2.5%**
-- **Gross Profit % (D):** (281,662.21 / 296,502.11) * 100 = **95.0%**
-- **Expenses % (E):** (10,000 / 296,502.11) * 100 = **3.4%**
-- **Net Profit % (F):** (271,805.66 / 296,502.11) * 100 = **91.7%**
+- **Sales % (A)**: (900,883.00 / 1,067,374.00) * 100 = **84.4%**
+- **Purchase % (D)**: (30,675.00 / 1,067,374.00) * 100 = **2.9%**
+- **Gross Profit % (E)**: (911,890.20 / 1,064,164.00) * 100 = **85.7%**
+- **Expenses % (F)**: (52,390.00 / 1,067,374.00) * 100 = **4.9%**
+- **Net Profit % (G)**: (852,590.20 / 1,067,374.00) * 100 = **79.9%**
 
 :::info
 Percentages are rounded to one decimal point.
